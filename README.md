@@ -5,7 +5,7 @@
 - pkg update && pkg upgrade
 - pkg install vim
 - pkg install ruby
-- pkg install lolcat
+- gem install lolcat
 - pkg install cowsay
 - pkg install toilet
 - pkg install neofetch
