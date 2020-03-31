@@ -14,6 +14,7 @@ neofetch
 echo -e '003[01;32m'
 date
 echo -e '\003[01;32m'
+echo
 echo 'Creator  : Mr.TamfanX' | lolcat
 echo 'Team     : SHUTDOWN INDO TEAM' | lolcat
 echo 'Github   : https://github.com/Anonymous3-SIT' | lolcat
