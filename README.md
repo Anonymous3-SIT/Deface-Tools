@@ -4,11 +4,12 @@
 #INSTALLATION
 - pkg update && pkg upgrade
 - pkg install ruby
+- pkg install fish
 - pkg install toilet
 - gem install lolcat
 - pkg install git
 - git clone https://github.com/Anonymous3-SIT/Deface-Tools
-- cd /sdcard
+- cd Deface-Tools
 - ls
 - fish Deface.py
 
