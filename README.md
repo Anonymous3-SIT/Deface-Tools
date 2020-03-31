@@ -13,7 +13,7 @@
 - git clone https://github.com/Anonymous3-SIT/Deface-Tools
 - cd Deface-Tools
 - ls
-- fish Deface.py
+- fish Deface.sh
 
 #INFO
 - WhatsApp : 628999271792
